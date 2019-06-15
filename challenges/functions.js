@@ -33,7 +33,7 @@ function greeting(first, last) {
 // consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 console.log(consume(2,2,add)); 
 console.log(consume(10,16,multiply)); 
-consume("Mary","Poppins", greeting);
+console.log(consume("Mary","Poppins", greeting));
 
 // ==== Closures ==== 
 
